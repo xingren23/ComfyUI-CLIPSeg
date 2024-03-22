@@ -233,3 +233,8 @@ NODE_CLASS_MAPPINGS = {
     "CLIPSeg": CLIPSeg,
     "CombineSegMasks": CombineMasks,
 }
+
+NODE_DISPLAY_NAME_MAPPINGS = {
+    "CLIPSeg": "CLIPSeg",
+    "CombineSegMasks": "Combine Segmentation Masks",
+}
